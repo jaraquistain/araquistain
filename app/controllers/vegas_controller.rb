@@ -1,0 +1,2 @@
+class VegasController < ApplicationController
+end

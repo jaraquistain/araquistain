@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="891469057">
+    <data-source source="LOCAL" name="Rails araquistain: development" uuid="e310bb8e-93fd-445e-b2b4-f764cc5cf9c2">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:araquistain_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails araquistain: test" uuid="e53638db-c829-4186-835a-dc5b339c71c1">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:araquistain_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails araquistain: production" uuid="f160ea4a-e4c6-46d4-9249-afd8556063ce">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:araquistain_production</jdbc-url>
+      <user-name>araquistain</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfebdff8dfebdffbdfffdfe3dff9dffedfebdfe3dfe4dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
